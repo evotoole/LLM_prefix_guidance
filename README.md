@@ -15,7 +15,7 @@
 
 ## 2) **Python Scripts**
 
-- These are the Python scripts used to load the large and small model and generate responses.
+- These are the Python scripts used to load the large and small model, generate responses, and write to csv files.
 
 ## 3) **SLURM Scripts**
 
